@@ -1,6 +1,6 @@
 # NestAI by _PIGEONPOSSE_
 
-[![HEADER](docs/banner.png)]
+![HEADER](docs/banner.png)
 
 [![Web](https://img.shields.io/badge/Web-grey?style=flat-square)](https://pigeonposse.com/)
 [![About us](https://img.shields.io/badge/About%20us-grey?style=flat-square)](https://pigeonposse.com/?popup=about)
