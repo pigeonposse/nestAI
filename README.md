@@ -50,6 +50,7 @@ pipenv install nestai
 
 # Using poetry
 poetry add nestai
+```
 
 ## ☕ Donate
 
