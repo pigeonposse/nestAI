@@ -10,7 +10,7 @@ web:
     license:
       name: GPL-3.0
       url: https://github.com/pigeonposse/nestAI/blob/main/LICENSE
-    status: active
+    status: beta
     type:
       - library
       - python-library
